@@ -1,0 +1,79 @@
+body{
+    background-color: black;
+}
+
+/*.col{
+    border: solid 1px black;
+}
+
+.col-2{
+    border: solid 1px black;
+}
+*/
+#header{
+    padding-top: 25px;
+    /*border: solid 1px yellow;*/
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+a{
+    text-decoration: none;
+    color: white;
+    font-size: 15px;
+    padding-right: 40px;
+    
+}
+
+.col-5{
+    color: white;
+    font-size: 25px;
+}
+
+#big_picture{
+    color: white;
+    font-size: 90px;
+    text-align: center;
+    /*border: solid 1px red;*/
+    background-image: url("https://lh3.googleusercontent.com/6jQ3uSlp4MAKpMHh93nkfIek_CQZ1kPm3NRBGgHfrSkD_NK9Zy6qmP99gR3kP0treE0X=s170");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 600px;
+    padding-top: 15rem;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+#show_info{
+    background-color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding-top: 100px;;
+    padding-bottom: 30px;
+}
+
+#april2020{
+    border: solid 1px black ;
+    background-color: lightgrey;
+    font-size: 20px;
+    padding-left: 30px;
+}
+
+.col-4 img{
+    padding: 20px;
+}
+
+#readme{
+    padding-top: 15%;
+}
+
+.col-5{
+    color: white;
+    padding: 20px;
+}
+
+#under_line{
+    border-bottom: solid 1px lightgrey;
+}
+
+#footer{
+    padding-top: 20px;
+}
